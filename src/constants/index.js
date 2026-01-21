@@ -12,8 +12,8 @@ export const EXPERIENCES = [
     year: "Sept 2025 - Dec 2025",
     role: "Software Engineer Intern",
     company: "Amazon",
-    description: `Incoming Fall 2025 Software Engineer Intern, part of the Amazon Stores Team.`,
-    technologies: [],
+    description: `Led onboarding of supply type to new cost optimizer, delivering $12M+ annual savings and reducing processing time by 95% (10 hours to 30 minutes). Built automated ETL pipelines using AWS services (S3, Lambda, PostgreSQL) handling 48K+ weekly loads. Migrated Lambda architecture from ZIP to Docker containers, expanding deployment capacity 40x. Developed Python-based data processing workflows for optimizer integration.`,
+    technologies: ["Python", "AWS CDK", "Java", "Docker", "TypeScript", "PostgreSQL"],
   },
   {
     year: "Jun 2025 - Aug 2025",
