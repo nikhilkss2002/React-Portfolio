@@ -46,7 +46,7 @@ const Hero = () => {
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 sm:gap-4 justify-center items-center">
           <a
-            href="https://drive.google.com/file/d/102_OJVSzwp5X7M2tzc3n9pUrmevXLDSA/view?usp=sharing"
+            href="https://drive.google.com/file/d/12lLbWXDOBBfpuEGO6vSUrKngpLsmxVIP/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3 border border-gray-300 rounded-lg font-medium bg-white hover:bg-gray-50 transition-colors text-gray-700 text-center"
@@ -72,7 +72,7 @@ const Hero = () => {
             <FaLinkedin />
           </a>
           <a
-            href="https://github.com/KssNikhil2002"
+            href="https://github.com/nikhilkss2002"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-gray-800"

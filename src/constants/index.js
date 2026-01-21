@@ -104,6 +104,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Madison, WI",
-  phoneNo: "+1 608-8673345 ",
+  phoneNo: "+1 737-403-5966 ",
   email: "skruthiventi@wisc.edu",
 };
