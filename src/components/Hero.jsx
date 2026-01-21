@@ -44,6 +44,7 @@ const Hero = () => {
           <span className="text-gray-800">|</span> {/* Cursor effect */}
         </h2>
 
+
         <div className="mt-10 flex flex-col sm:flex-row gap-4 sm:gap-4 justify-center items-center">
           <a
             href="https://drive.google.com/file/d/12lLbWXDOBBfpuEGO6vSUrKngpLsmxVIP/view?usp=sharing"
