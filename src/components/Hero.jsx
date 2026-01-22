@@ -47,7 +47,7 @@ const Hero = () => {
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 sm:gap-4 justify-center items-center">
           <a
-            href="https://drive.google.com/file/d/12lLbWXDOBBfpuEGO6vSUrKngpLsmxVIP/view?usp=sharing"
+            href="https://drive.google.com/file/d/1LsR00d-hSeVRuvBSPytpPGBEebVwLG8F/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3 border border-gray-300 rounded-lg font-medium bg-white hover:bg-gray-50 transition-colors text-gray-700 text-center"
