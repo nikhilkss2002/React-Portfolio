@@ -9,6 +9,13 @@ export const ABOUT_TEXT = `I'm a Computer Science graduate student at UW-Madison
 
 export const EXPERIENCES = [
   {
+    year: "Jan 2025 - Present",
+    role: "Machine Learning Research Assistant",
+    company: "University of Wisconsin Madison",
+    description: `Cleaned and annotated 2,000+ mosquito images using Roboflow, developing an ML pipeline with image quality assessment, custom trained YOLO object detection, and SAM segmentation to classify mosquito species. Built a CNN classifier using segmentation masks, improving species classification accuracy by 45% over baseline.`,
+    technologies: ["Python", "Roboflow", "YOLO", "SAM", "CNN", "Computer Vision"],
+  },
+  {
     year: "Sept 2025 - Dec 2025",
     role: "Software Engineer Intern",
     company: "Amazon",
@@ -44,13 +51,6 @@ export const EXPERIENCES = [
     technologies: ["React Native", "TypeScript", "JavaScript", "Database Optimization"],
   },
   {
-    year: "Oct 2023 - Jan 2024",
-    role: "Machine Learning Research Assistant",
-    company: "University of Wisconsin Madison",
-    description: `Cleaned and annotated 2,000+ mosquito images using Roboflow, developing an ML pipeline with image quality assessment, custom trained YOLO object detection, and SAM segmentation to classify mosquito species. Built a CNN classifier using segmentation masks, improving species classification accuracy by 45% over baseline.`,
-    technologies: ["Python", "Roboflow", "YOLO", "SAM", "CNN", "Computer Vision"],
-  },
-  {
     year: "Oct 2023 - Feb 2024",
     role: "Teaching Assistant",
     company: "Microsoft TEALS",
@@ -68,7 +68,7 @@ export const PROJECTS = [
       "Built an AI-based developer productivity app using Next.js and tRPC, integrating a RAG pipeline with LangChain and PGVector for intelligent GitHub repository querying and AssemblyAI for extracting issues from meeting audio.",
     technologies: ["Next.js", "TypeScript", "TailwindCSS", "PrismaORM", "Clerk", "NeonDB", "tRPC", "LangChain", "PGVector", "AssemblyAI"],
     github: "https://github.com/KssNikhil2002/GitFlowAI", 
-    dates: "Present", 
+    dates: "Spring 2025", 
   },
   {
     title: "Quick Bite",

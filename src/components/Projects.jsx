@@ -30,16 +30,6 @@ const Projects = () => {
                   <h3 className="font-medium text-gray-800 text-lg">
                     {project.title}
                   </h3>
-                  {project.github && (
-                    <a
-                      href={project.github}
-                      target='_blank'
-                      rel='noopener noreferrer'
-                      className='text-sm font-medium text-blue-600 hover:text-blue-700 hover:underline'
-                    >
-                      GitHub
-                    </a>
-                  )}
                 </div>
                 <p className="text-blue-600 font-medium mb-4">{project.type}</p>
                 <p className="text-gray-700 mb-6 leading-relaxed">{project.description}</p>
